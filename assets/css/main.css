@@ -1160,7 +1160,7 @@ input, select, textarea {
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
 			background-image: url("../../images/bg.jpg");
 			background-position: center;
-			background-size: 6016px 4016px;
+			background-size: 1920px 2880px;
 			background-repeat: no-repeat;
 			z-index: 1;
 		}
